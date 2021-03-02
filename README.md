@@ -21,8 +21,8 @@ There are automated test / jest you can run to see if you implementation is work
 
 # Getting Started
 ```
-git clone https://github.com/shavyg2/DevTest.git
-cd DevTest
+git clone https://github.com/Meghanath91/test.git 
+cd test
 npm install
 ```
 
