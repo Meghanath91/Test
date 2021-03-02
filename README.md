@@ -31,7 +31,7 @@ npm install
 
 # running the test
 ```
-npx jest
+npm test
 ```
 
 
